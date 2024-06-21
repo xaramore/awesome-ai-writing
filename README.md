@@ -2,6 +2,11 @@
 
 > A curated list of Awesome AI tools for writing, content creation, grammar checking, and more.
 
+### related links
+
+[There's An AI](https://theresanai.com) - [Best Writing AI Tools](https://theresanai.com/category/writing) - [AI Tools Blog](https://blog.theresanai.com) - [AI Newsletter](https://newsletter.theresanai.com)
+
+
 ## Contents
 
 - [Content Generation](#content-generation)
