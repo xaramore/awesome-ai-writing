@@ -26,6 +26,7 @@
 - [Copy.ai](https://www.copy.ai/) - AI-powered content generator for marketing copy.
 - [Writesonic](https://writesonic.com/) - AI writing tool for generating blog posts, ads, and product descriptions.
 - [Rytr](https://rytr.me/) - AI writing assistant that helps you create high-quality content.
+- [PulsePost](https://pulsepost.io/) - AI writer that Auto Publishes blog posts to your own website
 
 ## Grammar and Style Checking
 
